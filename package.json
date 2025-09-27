@@ -1,0 +1,22 @@
+{
+  "name": "github-pages-site",
+  "version": "1.0.0",
+  "description": "A static website hosted on GitHub Pages",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "static",
+    "website",
+    "github",
+    "pages"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
